@@ -1,0 +1,8 @@
+transformers
+imblearn
+indic-nlp-library
+sklearn
+gensim
+torch
+emojis
+googletrans
